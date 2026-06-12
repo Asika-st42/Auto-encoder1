@@ -29,6 +29,7 @@ results/
 runs/
 checkpoints/
 logs/
+models/
 
 # Model artifacts
 *.pt
