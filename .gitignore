@@ -1,0 +1,41 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# Data and generated outputs
+data/
+datasets/
+outputs/
+runs/
+checkpoints/
+logs/
+
+# Model artifacts
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+*.pkl
+
+# macOS
+.DS_Store
