@@ -25,6 +25,7 @@ env/
 data/
 datasets/
 outputs/
+results/
 runs/
 checkpoints/
 logs/
